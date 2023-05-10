@@ -23,10 +23,6 @@
 
 
 </br>
-  <img  width="400px"  src="https://github-readme-stats.vercel.app/api?username=jacksonjao&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/>
-  <img   width="400px"   src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonjao&theme=dark&hide_border=true"/>
-  <img   width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonjao&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-</br>
 
 **🛠 &nbsp;Tech Stack**
 
@@ -50,7 +46,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
   
-<a href="https://www.jhonosorio.dev"><img src="https://img.shields.io/badge/www.jhonosorio.com-%23FF4500.svg?style=for-the-badge&logo=www.jhonosorio.com&logoColor=white" /></a>
-</p>
+<a href="https://www.jhonosorio.dev" align="center"><img src="https://img.shields.io/badge/www.jhonosorio.com-%23FF4500.svg?style=for-the-badge&logo=www.jhonosorio.com&logoColor=white" /></a>
+
