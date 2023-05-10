@@ -13,7 +13,7 @@
 
 👍 Excited to bring skills and experience to new projects and contribute to the development of innovative and cutting-edge solutions. 🙌 If looking for a skilled and experienced Front-End Developer with a passion for delivering high-quality work and user experience, feel free to reach out.
 
-Here a list of some of the projects that I have created for fun that are available to try out online. [Github online projects](https://github.com/jacksonjao?tab=stars).
+Here, a list of some of the projects that I have created for fun that are available to try out online [Github online projects](https://github.com/jacksonjao?tab=stars).
 
 
 
