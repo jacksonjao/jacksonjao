@@ -13,11 +13,9 @@
 
 👍 Excited to bring skills and experience to new projects and contribute to the development of innovative and cutting-edge solutions. 🙌 If looking for a skilled and experienced Front-End Developer with a passion for delivering high-quality work and user experience, feel free to reach out.
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jacksonjao?tab=repositories).
+Here a list of some of the projects that I have created for fun that are available to try out online. [Github online projects](https://github.com/jacksonjao?tab=stars).
 
-- 💻 &nbsp; List of my favorite projects that are available to try out online. [Github online projects](https://github.com/jacksonjao?tab=stars).
 
-<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,7 +36,7 @@
 ![After Effects](https://img.shields.io/badge/After%20Effects-%23FF5D5D?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF26BE?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 
-<br>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
   
