@@ -1,9 +1,7 @@
 # Hi there! I'm Jhon Osorio 👋
 
 <p align="center">
-  <a href="https://github.com/jacksonjao">
       <img src="https://github.com/jacksonjao/jacksonjao/assets/16423284/03a0be6a-ab34-43d7-80ff-faa2a231679f" height="200"/>
-  </a>
 </p>
 
 
