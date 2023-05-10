@@ -1,7 +1,9 @@
 # Hi there! I'm Jhon Osorio 👋
 
 <p align="center">
-  <img src="https://github.com/jacksonjao/jacksonjao/assets/16423284/03a0be6a-ab34-43d7-80ff-faa2a231679f" height="200"/>
+  <a href="https://github.com/jacksonjao">
+      <img src="https://github.com/jacksonjao/jacksonjao/assets/16423284/03a0be6a-ab34-43d7-80ff-faa2a231679f" height="200"/>
+  </a>
 </p>
 
 
@@ -47,5 +49,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
   
-<a href="https://www.jhonosorio.dev" align="center"><img src="https://img.shields.io/badge/www.jhonosorio.com-%23FF4500.svg?style=for-the-badge&logo=www.jhonosorio.com&logoColor=white" /></a>
+<a href="https://www.jhonosorio.dev"><img src="https://img.shields.io/badge/www.jhonosorio.com-%23FF4500.svg?style=for-the-badge&logo=www.jhonosorio.com&logoColor=white" /></a>
 
