@@ -13,18 +13,13 @@
 
 👍 Excited to bring skills and experience to new projects and contribute to the development of innovative and cutting-edge solutions. 🙌 If looking for a skilled and experienced Front-End Developer with a passion for delivering high-quality work and user experience, feel free to reach out.
 
-
-</br>
-
-### Personal Stuffs:
-
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jacksonjao?tab=repositories).
+
 - 💻 &nbsp; List of my favorite projects that are available to try out online. [Github online projects](https://github.com/jacksonjao?tab=stars).
 
+<br>
 
-</br>
-
-**🛠 &nbsp;Tech Stack**
+### 🛠 &nbsp;Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,9 +38,9 @@
 ![After Effects](https://img.shields.io/badge/After%20Effects-%23FF5D5D?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF26BE?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
   
 <a href="https://www.jhonosorio.dev"><img src="https://img.shields.io/badge/www.jhonosorio.com-%23FF4500.svg?style=for-the-badge&logo=www.jhonosorio.com&logoColor=white" /></a>
 
